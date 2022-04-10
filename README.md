@@ -12,7 +12,7 @@ The snake game package is separated in:
 Use the package manager [pip](https://pip.pypa.io/en/stable/) to install Snake
 
 ```bash
-pip install Snake
+pip install Snake-enzoscalassara
  ```
 
 ## Author
